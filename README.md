@@ -3,9 +3,9 @@
 2. This is created for practice purposes in the shell scripting demo project as part of  the DevOps Zero to Hero Course.
 
 # Shell Commands 
-To create a file: touch 
-To create and write in a file: vim 
-To change directory: cd
+1. To create a file: touch
+2. To create and write in a file: vim
+3. To change directory: cd
 
 
 
